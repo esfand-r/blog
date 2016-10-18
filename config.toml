@@ -1,4 +1,4 @@
-baseurl = "http://esfand-r.github.io"
+baseurl = "http://esfand-r.github.io/esfand-r.github.com/"
 title = "Blog"
 languageCode = "en-us"
 theme = "internet-weblog"
